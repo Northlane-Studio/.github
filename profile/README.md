@@ -66,6 +66,7 @@ What matters to us is **signal, trust, and consistency** — not location.
 
 - Website: https://northlane.dev
 - Indie Hackers: https://www.indiehackers.com/NorthlaneStudio
+- Hashnode: https://hashnode.com/@northlane-studio
 - Email: hello@northlane.dev
 
 If you’re interested in building something meaningful together, feel free to reach out.
